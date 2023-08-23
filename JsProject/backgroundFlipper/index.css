@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.part {
+  margin-top: 15%;
+  margin-left: 38%;
+}
+
+.btn {
+  margin-top: 5%;
+  margin-left: 14%;
+  border-radius: 20%;
+  font-weight: bold;
+  font-size: medium;
+  background-color: rgb(216, 216, 198);
+}
